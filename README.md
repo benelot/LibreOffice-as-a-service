@@ -16,3 +16,5 @@ You can use this project as a starting point to write your own applications usin
     * Create a new run configuration of the type "Java Application"
     * Run!
     * *Hint: Show the error log to view the output of the run configuration (Window->Show View->Error Log)*
+	
+This has been adapted from: [https://github.com/smehrbrodt/libreoffice-starter-extension](smehrbrodt/libreoffice-starter-extension: LibreOffice extension boilerplate)
