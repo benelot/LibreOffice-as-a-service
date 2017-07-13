@@ -7,10 +7,9 @@ You can use this project as a starting point to write your own applications usin
 
 1. Install [LibreOffice](http://www.libreoffice.org/download) & the [LibreOffice SDK](http://www.libreoffice.org/download) (5.0 or greater)
 2. Install [Eclipse](http://www.eclipse.org/) IDE for Java Developers & the [LOEclipse plugin](https://marketplace.eclipse.org/content/loeclipse)
-3. [Download](https://github.com/smehrbrodt/libreoffice-starter-extension/archive/master.zip) this starter project & unzip it
-4. Import the project in Eclipse (File->Import->Existing Projects into Workspace)
-5. Let Eclipse know the paths to LibreOffice & the SDK (Project->Properties->LibreOffice Properties)
-6. Setup Run Configuration
+3. Import the project in Eclipse (File->Import->Existing Projects into Workspace)
+4. Let Eclipse know the paths to LibreOffice & the SDK (Project->Properties->LibreOffice Properties)
+5. Setup Run Configuration
     * Select the example you want to run
     * Go to Run->Run Configurations
     * Create a new run configuration of the type "Java Application"
