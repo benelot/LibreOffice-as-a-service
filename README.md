@@ -3,6 +3,8 @@ Make LibreOffice available to your Java application as a service and use them wi
 
 You can use this project as a starting point to write your own applications using LibreOffice as a document manipulation service.
 
+If you want to use Maven instead of the SDK, checkout my other repository: [benelot/LibreOffice-as-a-Maven](https://github.com/benelot/LibreOffice-as-a-Maven)
+
 ## Get started
 
 1. Install [LibreOffice](http://www.libreoffice.org/download) & the [LibreOffice SDK](http://www.libreoffice.org/download) (5.0 or greater)
